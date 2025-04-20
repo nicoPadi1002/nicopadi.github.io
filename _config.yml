@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+title: Mi sitio con Jekyll
+description: Un sitio de prueba utilizando Jekyll.
+baseurl: "/nicopadi"
+url: "https://nicoPadi1002.github.io"
